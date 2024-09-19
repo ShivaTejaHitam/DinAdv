@@ -1,4 +1,4 @@
-1) DSA 
-2) Java 8 ,Core Java, Design patterns etc , Projects in experience
+1) DSA , Java 8
+2) Core Java, Design patterns etc , Projects in experience
 3) Framework practical 
 4) AWS, system design
